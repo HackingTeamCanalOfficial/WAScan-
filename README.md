@@ -120,3 +120,21 @@ $ python wascan.py --url http://xxxxx.com/test.php --scan 5 --auth "admin:1234" 
 $ python wascan.py --url http://xxxxx.com/test.php --scan 5 --auth "admin:1234" --proxy xxx.xxx.xxx.xxx --proxy-auth "root:4321"
 $ python wascan.py --url http://xxxxx.com/test.php --scan 5 --auth "admin:1234" --proxy xxx.xxx.xxx.xxx --proxy-auth "root:4321 --ragent -v
 ```
+Grupos a los que tambien puedes seguirnos
+
+Telegram 
+
+https://t.me/HackingTeamGrupoOfficial
+
+https://t.me/TermuxHackingTeam
+
+Twitter 
+
+https://twitter.com/HackingTeam1
+
+Facebook 
+
+https://www.facebook.com/groups/HackingTeamCyber/
+https://www.facebook.com/groups/HACKINGTEAMPUBLICO/                                                              
+
+Web https://elrincondehackingteam.blogspot.com/
